@@ -77,7 +77,7 @@ AI-powered-Marketing-Brochure/
 ├── .env                       # API key file (not committed)
 └── README.md                  # Project documentation
 
-Sample Output:
+### SAMPLE OUTPUT:
 file:///C:/Users/ujjes/Downloads/Hugging_Face_Brochure.pdf
 
 Future Enhancements
