@@ -30,10 +30,11 @@ Imagine you want a quick summary of a company like Hugging Face for a pitch deck
 
 ### 1. Clone the Repository
 
-```bash
+'''bash
 git clone https://github.com/ujjesha1312/AI-powered-Marketing-Brochure-with-OpenAI.git
 cd AI-powered-Marketing-Brochure-with-OpenAI
-2. (Optional) Create a Virtual Environment
+
+### 2. (Optional) Create a Virtual Environment
 bash
 Copy
 Edit
@@ -42,12 +43,12 @@ python -m venv venv
 venv\Scripts\activate
 # macOS/Linux
 source venv/bin/activate
-3. Install Dependencies
+### 3. Install Dependencies
 bash
 Copy
 Edit
 pip install -r requirements.txt
-4. Add Your OpenAI API Key
+### 4. Add Your OpenAI API Key
 Create a .env file in the root directory:
 
 ini
